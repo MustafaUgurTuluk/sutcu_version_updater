@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": "MustafaUgurTuluk/sutcu_version_updater",
-  "asset": "SutcuAdminPanel-1.0.0.zip",
-  "size": 87188271,
-  "sha256": "a03bd2ee5332d5a5aa360067735af56cff22a0cf5d6b11957071756127176149"
+  "asset": "SutcuAdminPanel-1.0.2.zip",
+  "size": 87197542,
+  "sha256": "e98b86d52b2eeced5db4ff38b6cff700b842a3242dfca80edc0e9a89bb04849f"
 }
